@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tallinn</string>
+    <string name="loomaaed">Loomaaed</string>
+    <string name="mingi_nupp">EEEE</string>
+    <string name="mingi_teine_nupp">AAAAA</string>
+    <string name="mingi_kolmas_nupp">mingi_kolmas_nupp</string>
+</resources>
